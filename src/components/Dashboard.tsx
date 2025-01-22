@@ -5,7 +5,7 @@ import { CalendarDays, CheckCircle, Clock, Users } from "lucide-react";
 const stats = [
   {
     title: "Total Installations",
-    value: "89",
+    value: "8009",
     icon: CheckCircle,
     description: "Last 30 days",
   },
